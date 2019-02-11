@@ -1,3 +1,4 @@
+[
 {
     "classification": "Account Management",
     "fault": [
@@ -20,3 +21,4 @@
       { "id": 13, "name": "other" }
     ]
   }
+]
