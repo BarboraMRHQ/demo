@@ -1,4 +1,4 @@
-[{
+{
     "classification": "Account Management",
     "fault": [
       { "id": 1, "name": "Access Request" },
@@ -19,4 +19,4 @@
       { "id": 12, "name": "Power" },
       { "id": 13, "name": "other" }
     ]
-  }]
+  }
