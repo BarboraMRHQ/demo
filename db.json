@@ -1,14 +1,22 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+    "classification": "Account Management",
+    "fault": [
+      { "id": 1, "name": "Access Request" },
+      { "id": 2, "name": "Account Lockout" },
+      { "id": 3, "name": "Disable user Account" },
+      { "id": 4, "name": "New User" },
+      { "id": 5, "name": "Password Reset" },
+      { "id": 6, "name": "Remove User Account" },
+      { "id": 7, "name": "Other" }
+    ]
+  }, 
+  
+  {
+    "classification": "Circuit",
+    "fault": [
+      { "id": 10, "name": "Config Error" },
+      { "id": 11, "name": "Line Fault" },
+      { "id": 12, "name": "Power" },
+      { "id": 13, "name": "other" }
+    ]
+  }]
